@@ -1,5 +1,3 @@
-#  BUILT FOR EDUCATIONAL PURPOSE ONLY! NOT INTENDED FOR COMMERCIAL USE!
-
 # Description
 
 Linear Stock Price Predictor is a low-code implementation of multiple machine learning models to predict the "Close" value of linear stocks, given the "Open".
@@ -18,7 +16,6 @@ Currently, it has only been tested with IRFC shares.
 2. Add more models, and hopefully make it work for more than just linear stocks.
 
 
-
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/krishnasharmak05/Linear-Stock-Price-Predictor/issues/new)
@@ -31,5 +28,8 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 
 ## License
-Copyright © 2015 krishnasharmak05
+Copyright © 2015 krishnasharmak05.
+
 Released under the MIT license.
+
+#### BUILT FOR EDUCATIONAL PURPOSE ONLY! NOT INTENDED FOR COMMERCIAL USE!
