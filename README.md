@@ -4,11 +4,11 @@ Linear Stock Price Predictor is a low-code implementation of multiple machine le
 Currently, it has only been tested with IRFC shares.
 
 ## TODO
-+ Make it low code.
-+ Add more ML models.
-+ Add a way to connect the data. It is currently hardcoded for IRFC, fix it.
-+ Do the data preprocessing.
-+ Try to automate the process of getting the data.   
+- [ ] Make it low code.
+- [ ] Add more ML models.
+- [ ] Add a way to connect the data. It is currently hardcoded for IRFC, fix it.
+- [ ] Do the data preprocessing.
+- [ ] Try to automate the process of getting the data.   
 
 ## AIMS
 
