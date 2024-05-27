@@ -1,4 +1,4 @@
-
+# TODO: See if I can use another ML model which gives a better accuracy rate
 import tkinter as tk
 from tkinter import filedialog
 import customtkinter as ctk
